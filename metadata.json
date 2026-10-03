@@ -1,0 +1,6 @@
+{
+  "name": "ORQOMI — Orquestamos Inteligencia",
+  "description": "Diseñamos agentes de IA, asistentes, automatizaciones, capas MCP y plataformas inteligentes conectadas a los datos, procesos y sistemas de tu organización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
